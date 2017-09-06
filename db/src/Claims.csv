@@ -1,0 +1,15 @@
+id,policy,age,amount,occupation,isFraud
+1,Home,24,300,Sales,No
+2,Home,41,1200,IT,No
+3,Home,38,2800,Sales,Yes
+4,Home,62,6000,Marketing,No
+5,Home,51,4000,Sales,No
+6,Travel,33,200,Sales,No
+7,Travel,46,800,IT,No
+8,Travel,42,1000,Marketing,No
+9,Travel,21,900,Sales,No
+10,Vehicle,44,4000,IT,No
+11,Vehicle,64,1000,Sales,Yes
+12,Vehicle,54,900,IT,No
+13,Vehicle,26,2500,Sales,No
+14,Vehicle,44,1300,Marketing,Yes

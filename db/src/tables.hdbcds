@@ -1,0 +1,21 @@
+namespace PALapp.db;
+
+context tables {
+    entity Claims {
+        key id         : Integer;
+            policy     : String(10);
+            age        : Integer;
+            amount     : Integer;
+            occupation : String(10);
+            isFraud    : String(10);
+    };
+
+    entity Customers {
+        key id        : Integer;
+            name      : String(100);
+            lifeSpend : Double;
+            newSpend  : Double;
+            income    : Double;
+            loyalty   : Double;
+    };
+};
